@@ -1,4 +1,4 @@
-# SLPred: a multi-view subcellular localization prediction tool for human proteins
+# SLPred: a multi-view subcellular localization prediction tool for multi-location human proteins
 * SLPred is a multi-view subcellular localization prediction tool for human proteins.
 * The tool consists of nine independently developed model for the proteins which have annotation with nine subcellular locations: **Cytoplasm, Nucleus, Cell Membrane, Mitochondrion, Secreted, Endoplasmic reticulum, Golgi apparatus, Lysosome and Peroxisome.** 
 * SLPred exploits the features of forty different protein descriptors from the publicly available tools: POSSUM, iFeature and SPMAP.
